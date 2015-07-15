@@ -122,7 +122,8 @@ ln -sf prompt-n prompt
 fi
 rm echo.out
 
-PACKAGE=`basename "$SRCDIR"`
+#PACKAGE=`basename "$SRCDIR"`
+PACKAGE=wfdb-10.5.24
 MAJOR=
 MINOR=
 RELEASE=
